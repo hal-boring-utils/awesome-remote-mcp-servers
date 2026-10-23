@@ -3232,6 +3232,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [exit1.dev](https://exit1.dev/mcp) `https://app.exit1.dev/mcp/v1`
   [![exit1.dev MCP connector](https://glama.ai/mcp/connectors/dev.exit1/exit1-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.exit1/exit1-mcp)
   🔐 - Create, edit and pause uptime monitors, read uptime stats and check history, and set email and webhook alerts.
+- [Expiry Watch](https://boringutils.com/expiry-watch#mcp) `https://boringutils.com/api/mcp`
+  [![Expiry Watch MCP connector](https://glama.ai/mcp/connectors/io.github.hal-boring-utils/expiry-watch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.hal-boring-utils/expiry-watch)
+  🔓 - Check a public domain's TLS certificate, chain and registration expiry without an account or API key.
 - [Fixter](https://fixter.dev) `https://mcp.fixter.dev/mcp`
   [![Fixter MCP connector](https://glama.ai/mcp/connectors/dev.fixter.mcp/fixter/badges/score.svg)](https://glama.ai/mcp/connectors/dev.fixter.mcp/fixter)
   🔐 - Query production logs, traces, metrics and error issues, get the root cause, and open a fix as a pull request.
